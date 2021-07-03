@@ -1,0 +1,44 @@
+/* #a1,#a2,#a3,#a4,#a5,#a6,#a7,#a8,#a9,#a10,#a11,#a12,#a13,#a14,#a15,#a16,#a17,#a18,#a19,#a20,#a21,#a22,#a23,#a24,#a25,#a26,#a27,#a28,#a29,#a30,#a31,#a32,#a33,#a34,#a35,#a36,#a37,#a38,#a39,#a40,#a41,#a42{ */
+    span{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+div#game{
+    position: relative;
+    text-align: center;
+    margin-top: 30px;
+}
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+div#res{
+    height: 450px;
+    width: 520px;
+    position: absolute;
+    background-color: white;
+    top: 80px;
+    left: 382px;
+    display: none;
+    color: black;
+    border: 2px solid red;
+}
+button{
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+}
+
+#res1{
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: xx-large;
+    margin-bottom: 50px;
+}
